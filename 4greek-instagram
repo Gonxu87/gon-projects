@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+        <title>Document
+        </title>
+    </head>
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="header-logo left d-inline-block"><i class="fab fa-html5"></i></div>
+            <div class="header-title d-inline-block">
+                <h1>HTML 5</h1>
+                <h4>Rigoberto</h4>
+            </div>
+            <div class="header-icon d-inline-block">
+            <i class="fas fa-ellipsis-v"></i></div>
+        </div>
+        <div class="image">
+            <img src="https://www.shoretrips.com/images/trip_images/103267_150203021941.jpg">
+        </div>
+        <div class="icons">
+            <div class="icons-left">
+                <i class="far fa-heart"></i>
+                <i class="far fa-comment"></i>
+                <i class="far fa-paper-plane"></i>
+            </div>
+            <div class="icons-right">
+                <i class="far fa-bookmark"></i>
+            </div>
+        </div>
+        <div class="content">
+        <p>Liked by <strong>4GeeksAcademy, html5, Web</strong> and<strong> 100,000 others</strong></p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+    </div>
+    <script src="https://kit.fontawesome.com/d4919720ff.js" crossorigin="anonymous"></script>
+</body>
+</html>
